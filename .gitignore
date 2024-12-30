@@ -24,6 +24,9 @@ build/
 # Include these if you use Visual Studio
 .vs/
 
+# Exercism files
+**/.exercism/
+
 # Ignore build output of dotnet
 *.dll
 *.exe
